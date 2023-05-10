@@ -8,7 +8,6 @@
 5. 전원이 꺼진 상태에서 특정 기능을 실행하려하면 실행할 수 없다는 알람이 나타난다.
 6. 볼륨높히기와 볼륨낮추기 그리고 채널높히기와 채널 낮추기 기능을 실행 시 현재의 채널과 볼륨 수치를 나타낸다.
 7. 볼륨의 수치는 0~30까지이고 채널의 수치는 0~200입니다.
-8. 
 
 #커뮤니케이션 다이어그램 링크
 -https://www.figma.com/file/twVJzuYRzQxshp15MXatEA/Untitled?type=design&node-id=0-1&t=kP1wlRbrQlQ2q6vU-0
